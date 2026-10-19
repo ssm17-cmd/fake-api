@@ -1,9 +1,8 @@
 {
-  "usuarios":[
+  "usuarios": [
     {
-      "id": 1,
       "username": "marinasantos@gmail.com",
-      "password": "123"
+      "password": "123456"
     }
   ]
 }
